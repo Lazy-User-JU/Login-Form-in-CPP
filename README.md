@@ -14,6 +14,9 @@ A simple console-based login system built with C++ that allows users to **Sign U
 ---
 
 ## 📂 Project Structure
+Login-Form-In-CPP/
+│-- login.cpp # Main source code
+│-- README.md # Project documentation
 ## ▶️ How to Run
 1. Clone this repository:
    ```bash
@@ -33,7 +36,7 @@ A simple console-based login system built with C++ that allows users to **Sign U
 - **File Handling (fstream)**
 
 
-##📜 License
+## 📜 License
 
 This project is open-source and available under the MIT License
 
