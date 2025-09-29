@@ -33,9 +33,8 @@ A simple console-based login system built with C++ that allows users to **Sign U
 - **File Handling (fstream)**
 
 
-📜 License
+##📜 License
 
 This project is open-source and available under the MIT License
-👉 You can copy this into your **README.md** file on GitHub and edit anytime.  
-Do you also want me to prepare a **Word (.docx) or Google Docs version** for easier editing, besides Markdown?
+
 
