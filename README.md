@@ -1,4 +1,3 @@
-A simple console-based login system built with C++ that allows users to Sign Up, Log In, and
 # 🔐 Login Form in C++
 
 A simple console-based login system built with C++ that allows users to **Sign Up, Log In, and Recover Forgotten Passwords**. It demonstrates the use of **file handling** in C++ to store and verify user credentials.
@@ -19,3 +18,23 @@ A simple console-based login system built with C++ that allows users to **Sign U
 1. Clone this repository:
    ```bash
    git clone https://github.com/Lazy-User-JU/Login-Form-In-CPP.git
+2. Navigate into the project folder:
+   ```bash
+   cd Login-Form-In-CPP
+3. Compile the program:
+   ```bash
+   g++ login.cpp -o login
+4. Run the executable:
+   ```bash
+   ./login
+
+🛠️ Technologies Used
+C++ (Core logic)
+File Handling (fstream)
+
+📜 License
+
+This project is open-source and available under the MIT License
+👉 You can copy this into your **README.md** file on GitHub and edit anytime.  
+Do you also want me to prepare a **Word (.docx) or Google Docs version** for easier editing, besides Markdown?
+
