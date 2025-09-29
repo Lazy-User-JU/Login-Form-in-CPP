@@ -14,9 +14,9 @@ A simple console-based login system built with C++ that allows users to **Sign U
 ---
 
 ## 📂 Project Structure
-Login-Form-In-CPP/
-│-- login.cpp     # Main source code
-│-- README.md     # Project documentation
+- `login.cpp` → Main source code  
+- `README.md` → Project documentation  
+
 
 ## ▶️ How to Run
 1. Clone this repository:
