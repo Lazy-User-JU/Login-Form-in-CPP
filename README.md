@@ -28,9 +28,10 @@ A simple console-based login system built with C++ that allows users to **Sign U
    ```bash
    ./login
 
-🛠️ Technologies Used
-C++ (Core logic)
-File Handling (fstream)
+## 🛠️ Technologies Used
+- **C++** (Core logic)
+- **File Handling (fstream)**
+
 
 📜 License
 
